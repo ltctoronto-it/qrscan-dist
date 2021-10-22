@@ -1,0 +1,23 @@
+{
+  "App": {
+    "name": "2021 初中班登記",
+    "events": [
+      "Enter",
+      "Leave"
+    ],
+    "daytags" : {
+      "test": "Oct 18 2021",
+      "day 1": "Nov 1 2021",
+      "day 2": "Nov 2 2021",
+      "day 3": "Nov 3 2021"
+    },
+    "ltc_range" : {
+      "min": "1601593",
+      "max": "2004231"
+    }
+  },
+  "Google": {
+    "sheetID": "14KbGnSRwcQlNQZZf1Q9GHyJwWgCGoGgDSdUf4nPVnxc",
+    "formURL": "https://script.google.com/macros/s/AKfycbxHrzwrygWiI-6BnQ9Tua4dWqTRHzxqOPRvJkE5Y0L-nDZrAYyYe5tuyegp5-vTghMiew/exec"
+  }
+}
