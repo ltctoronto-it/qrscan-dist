@@ -2,18 +2,30 @@
   "App": {
     "name": "2021 初中班登記",
     "events": [
-      "Enter",
+      "Entry",
       "Leave"
     ],
     "daytags" : {
-      "test": "Oct 18 2021",
-      "day 1": "Nov 1 2021",
-      "day 2": "Nov 2 2021",
-      "day 3": "Nov 3 2021"
+      "Oct 22 2021": "test day",
+      "Oct 23 2021": "test day",
+      "Oct 24 2021": "test day",
+      "Oct 25 2021": "test day",
+      "Oct 26 2021": "test day",
+      "Oct 27 2021": "test day",
+      "Oct 28 2021": "test day",
+      "Oct 29 2021": "test day",
+      "Oct 30 2021": "test day",
+      "Oct 31 2021": "test day",
+      "Nov 1 2021":  "day 1",
+      "Nov 2 2021":  "day 2",
+      "Nov 3 2021":  "day 3",
+      "Nov 4 2021":  "day 4",
+      "Nov 5 2021":  "day 5",
+      "Nov 6 2021":  "day 6"
     },
     "ltc_range" : {
       "min": "1601593",
-      "max": "2004231"
+      "max": "2004250"
     }
   },
   "Google": {
