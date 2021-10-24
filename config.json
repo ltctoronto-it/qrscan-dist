@@ -26,7 +26,8 @@
     "ltc_range" : {
       "min": "1601593",
       "max": "2004250"
-    }
+    },
+    "scanner_sound" : "beep.mp3"
   },
   "Google": {
     "sheetID": "14KbGnSRwcQlNQZZf1Q9GHyJwWgCGoGgDSdUf4nPVnxc",
