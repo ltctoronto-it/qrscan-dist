@@ -24,7 +24,7 @@
       "Nov 6 2021":  "day 6"
     },
     "ltc_range" : {
-      "min": "1490019",
+      "min": "1490010",
       "max": "2004250"
     },
     "scanner_sound" : "beep.mp3"
