@@ -1,36 +1,32 @@
 {
   "App": {
-    "name": "2021 初中班登記",
+    "name": "2022 初中班登記",
     "events": [
       "Entry",
       "Leave"
     ],
     "daytags" : {
-      "Oct 22 2021": "test day",
-      "Oct 23 2021": "test day",
-      "Oct 24 2021": "test day",
-      "Oct 25 2021": "test day",
-      "Oct 26 2021": "test day",
-      "Oct 27 2021": "test day",
-      "Oct 28 2021": "test day",
-      "Oct 29 2021": "test day",
-      "Oct 30 2021": "test day",
-      "Oct 31 2021": "test day",
-      "Nov 1 2021":  "day 1",
-      "Nov 2 2021":  "day 2",
-      "Nov 3 2021":  "day 3",
-      "Nov 4 2021":  "day 4",
-      "Nov 5 2021":  "day 5",
-      "Nov 6 2021":  "day 6"
+      "Jun 26 2022": "test day",
+      "Jun 27 2022": "test day",
+      "Jun 28 2022": "test day",
+      "Jun 29 2022": "test day",
+      "Jun 30 2022": "test day",
+      "Jul 1 2022": "test day",
+      "Jul 2 2022": "day 1",
+      "Jul 3 2022": "day 2",
+      "Jul 4 2022": "day 3",
+      "Jul 5 2022": "day 4",
+      "Jul 6 2022": "day 5",
+      "Jul 7 2022": "day 6"
     },
     "ltc_range" : {
       "min": "1490010",
-      "max": "2004250"
+      "max": "2005000"
     },
     "scanner_sound" : "beep.mp3"
   },
   "Google": {
-    "sheetID": "14KbGnSRwcQlNQZZf1Q9GHyJwWgCGoGgDSdUf4nPVnxc",
-    "formURL": "https://script.google.com/macros/s/AKfycbxHrzwrygWiI-6BnQ9Tua4dWqTRHzxqOPRvJkE5Y0L-nDZrAYyYe5tuyegp5-vTghMiew/exec"
+    "sheetID": "1OEbCsw5Q-yslNVIILL3J75XYg1AQ1Nxe6VvIaBXud5w",
+    "formURL": "https://script.google.com/macros/s/AKfycbw5U8gkMSLfCHqr5DM1o63CGxn-j_3JZViz8yMUYsOeCajsFATBEQHh30RFagaPS191/exec"
   }
 }
