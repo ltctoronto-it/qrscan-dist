@@ -1,28 +1,46 @@
 {
   "App": {
-    "name": "2022 高级班登記",
+    "name": "2022 Fall 初中班登記",
     "events": [
       "Entry",
       "Leave"
     ],
     "daytags" : {
-      "Jul 8 2022": "test day",
-      "Jul 9 2022": "test day",
-      "Jul 10 2022": "test day",
-      "Jul 11 2022": "day 1",
-      "Jul 12 2022": "day 2",
-      "Jul 13 2022": "day 3",
-      "Jul 14 2022": "day 4",
-      "Jul 15 2022": "day 5"
+      "Aug 29 2022": "test day",
+      "Aug 30 2022": "test day",
+      "Aug 31 2022": "test day",
+      "Sep 12 2022": "test day",
+      "Sep 1 2022": "test day",
+      "Sep 2 2022": "test day",
+      "Sep 3 2022": "test day",
+      "Sep 4 2022": "test day",
+      "Sep 5 2022": "test day",
+      "Sep 6 2022": "test day",
+      "Sep 7 2022": "test day",
+      "Sep 8 2022": "test day",
+      "Sep 9 2022": "test day",
+      "Sep 10 2022": "test day",
+      "Sep 11 2022": "test day",
+      "Sep 13 2022": "test day",
+      "Sep 16 2022": "test day",
+      "Sep 17 2022": "test day",
+      "Sep 18 2022": "test day",
+      "Sep 20 2022": "test day",
+      "Sep 12 2022": "day 1",
+      "Sep 14 2022": "day 2",
+      "Sep 15 2022": "day 3",
+      "Sep 19 2022": "day 4",
+      "Sep 21 2022": "day 5",
+      "Sep 22 2022": "day 5"
     },
     "ltc_range" : {
-      "min": "1200000",
-      "max": "2205000"
+      "min": "1490000",
+      "max": "2205600"
     },
     "scanner_sound" : "beep.mp3"
   },
   "Google": {
-    "sheetID": "1YmUvtd_xdkcinb5eOVohgs1GctRvBZrSeU7BBAeZMC8",
-    "formURL": "https://script.google.com/macros/s/AKfycbzu7AU2JJ135AWIC-awjiHvUKwLlF6iRDSpMmGDpBZijSP9WSpgEOuXWKv5LuRYc0DE/exec"
+    "sheetID": "10EvzmL5y04CTieMTTFlbgjArall8pyxkQlL74X5JEDk",
+    "formURL": "https://script.google.com/macros/s/AKfycbw4TfLHpslkm8PavnIXZY5GWFTvFNSnXXuXlLJGAQaRtFmoUFbOW910YPm5CMybTrzd/exec"
   }
 }
