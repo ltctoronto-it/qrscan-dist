@@ -1,46 +1,35 @@
 {
   "App": {
-    "name": "2022 Fall 初中班登記",
+    "name": "2023 Apr 初中班登記",
     "events": [
       "Entry",
       "Leave"
     ],
     "daytags" : {
-      "Aug 29 2022": "test day",
-      "Aug 30 2022": "test day",
-      "Aug 31 2022": "test day",
-      "Sep 12 2022": "test day",
-      "Sep 1 2022": "test day",
-      "Sep 2 2022": "test day",
-      "Sep 3 2022": "test day",
-      "Sep 4 2022": "test day",
-      "Sep 5 2022": "test day",
-      "Sep 6 2022": "test day",
-      "Sep 7 2022": "test day",
-      "Sep 8 2022": "test day",
-      "Sep 9 2022": "test day",
-      "Sep 10 2022": "test day",
-      "Sep 11 2022": "test day",
-      "Sep 13 2022": "test day",
-      "Sep 16 2022": "test day",
-      "Sep 17 2022": "test day",
-      "Sep 18 2022": "test day",
-      "Sep 20 2022": "test day",
-      "Sep 12 2022": "day 1",
-      "Sep 14 2022": "day 2",
-      "Sep 15 2022": "day 3",
-      "Sep 19 2022": "day 4",
-      "Sep 21 2022": "day 5",
-      "Sep 22 2022": "day 6"
+      "Apr 6 2023": "test day",
+      "Apr 7 2023": "test day",
+      "Apr 8 2023": "test day",
+      "Apr 9 2023": "test day",
+      "Apr 10 2023": "test day",
+      "Apr 11 2023": "test day",
+      "Apr 12 2023": "test day",
+      "Apr 13 2023": "test day",
+      "Apr 14 2023": "test day",
+      "Apr 15 2023": "day 1",
+      "Apr 16 2023": "day 2",
+      "Apr 17 2023": "day 3",
+      "Apr 18 2023": "day 4",
+      "Apr 29 2023": "day 5",
+      "Apr 20 2023": "day 6"
     },
     "ltc_range" : {
       "min": "1490000",
-      "max": "2205600"
+      "max": "2305300"
     },
     "scanner_sound" : "beep.mp3"
   },
   "Google": {
-    "sheetID": "10EvzmL5y04CTieMTTFlbgjArall8pyxkQlL74X5JEDk",
-    "formURL": "https://script.google.com/macros/s/AKfycbw4TfLHpslkm8PavnIXZY5GWFTvFNSnXXuXlLJGAQaRtFmoUFbOW910YPm5CMybTrzd/exec"
+    "sheetID": "1vSMuwh2AjPlwbCriX0DMtzEarvOyRdBeLGoPth8nfQA",
+    "formURL": "https://script.google.com/macros/s/AKfycbx7OE969QMny0_RA7Xh7K-5-Z7s5FzkwxRaJRp980-h_ZEj5NpyvZ5rAl82fuj2_rd5vw/exec"
   }
 }
