@@ -24,7 +24,7 @@
     },
     "ltc_range" : {
       "min": "1490000",
-      "max": "2305300"
+      "max": "2305350"
     },
     "scanner_sound" : "beep.mp3"
   },
