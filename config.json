@@ -1,35 +1,36 @@
 {
   "App": {
-    "name": "2023 Apr 初中班登記",
+    "name": "2023 Aug 初中班登記",
     "events": [
       "Entry",
       "Leave"
     ],
     "daytags" : {
-      "Apr 6 2023": "test day",
-      "Apr 7 2023": "test day",
-      "Apr 8 2023": "test day",
-      "Apr 9 2023": "test day",
-      "Apr 10 2023": "test day",
-      "Apr 11 2023": "test day",
-      "Apr 12 2023": "test day",
-      "Apr 13 2023": "test day",
-      "Apr 14 2023": "test day",
-      "Apr 15 2023": "day 1",
-      "Apr 16 2023": "day 2",
-      "Apr 17 2023": "day 3",
-      "Apr 18 2023": "day 4",
-      "Apr 29 2023": "day 5",
-      "Apr 20 2023": "day 6"
+      "Aug 12 2023": "test day",
+      "Aug 13 2023": "test day",
+      "Aug 14 2023": "test day",
+      "Aug 20 2023": "test day",
+      "Aug 21 2023": "test day",
+      "Aug 22 2023": "test day",
+      "Aug 23 2023": "test day",
+      "Aug 24 2023": "test day",
+      "Aug 25 2023": "test day",
+      
+      "Aug 26 2023": "day 1",
+      "Aug 27 2023": "day 2",
+      "Aug 28 2023": "day 3",
+      "Aug 29 2023": "day 4",
+      "Aug 30 2023": "day 5",
+      "Aug 31 2023": "day 6"
     },
     "ltc_range" : {
       "min": "1490000",
-      "max": "2305350"
+      "max": "2305999"
     },
     "scanner_sound" : "beep.mp3"
   },
   "Google": {
-    "sheetID": "1vSMuwh2AjPlwbCriX0DMtzEarvOyRdBeLGoPth8nfQA",
-    "formURL": "https://script.google.com/macros/s/AKfycbx7OE969QMny0_RA7Xh7K-5-Z7s5FzkwxRaJRp980-h_ZEj5NpyvZ5rAl82fuj2_rd5vw/exec"
+    "sheetID": "1tENXywwJEON8q3-rPtm9Bh2hax2HAs4nuDJw6rwEyg4",
+    "formURL": "https://script.google.com/macros/s/AKfycbwBS5u__Y99GxnNN5wjO0dxoWYm2hp4KEqLqxUqGeD950oiMGyP9RsUwrGqIBjf9ypV/exec"
   }
 }
