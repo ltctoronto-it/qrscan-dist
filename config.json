@@ -24,7 +24,7 @@
       "Aug 31 2023": "day 6"
     },
     "ltc_range" : {
-      "min": "1490000",
+      "min": "1400000",
       "max": "2305999"
     },
     "scanner_sound" : "beep.mp3"
