@@ -6,25 +6,24 @@
       "Leave"
     ],
     "daytags" : {
-      "Mar 26 2024": "test day",
-      "Mar 27 2024": "test day",
-      "Mar 28 2024": "test day",
-      "Mar 29 2024": "test day",
-      "Mar 31 2024": "test day",
-      "Apr 1 2024": "test day",
-      "Apr 2 2024": "test day",
-      "Apr 3 2024": "test day",
-      "Apr 4 2024": "test day",
-      "Apr 5 2024": "test day",
-      "Apr 6 2024": "test day",
-      "Apr 7 2024": "test day",
+      "Jul 26 2024": "test day",
+      "Jul 27 2024": "test day",
+      "Jul 28 2024": "test day",
+      "Jul 29 2024": "test day",
+      "Jul 31 2024": "test day",
+      "Aug 1 2024": "test day",
+      "Aug 2 2024": "test day",
+      "Aug 3 2024": "test day",
+      "Aug 4 2024": "test day",
+      "Aug 5 2024": "test day",
+      "Aug 6 2024": "test day",
       
-      "Apr 8 2024": "day 1",
-      "Apr 9 2024": "day 2",
-      "Apr 10 2024": "day 3",
-      "Apr 11 2024": "day 4",
-      "Apr 12 2024": "day 5",
-      "Apr 13 2024": "day 6"
+      "Aug 7 2024": "day 1",
+      "Aug 8 2024": "day 2",
+      "Aug 9 2024": "day 3",
+      "Aug 10 2024": "day 4",
+      "Aug 11 2024": "day 5",
+      "Aug 12 2024": "day 6"
     },
     "ltc_range" : {
       "min": "1400000",
@@ -33,7 +32,7 @@
     "scanner_sound" : "beep.mp3"
   },
   "Google": {
-    "formURL": "https://script.google.com/macros/s/AKfycbwNEb9hv5b-z6n5tbvvwRHFky9DZfaCwA7GRJm25585AfpoDcp4dasrrj_hItLO3RcU/exec"
+    "formURL": "https://script.google.com/macros/s/AKfycbxm5-QLEzQszWmG5IAnnXwx7Wg6EKnzqh0VHupRT3HT9sFx1fRllgQXUD-uR5wktvx_/exec"
   }
 }
 
