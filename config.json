@@ -1,6 +1,6 @@
 {
   "App": {
-    "name": "2024 August 初中班登記",
+    "name": "2024 August 高級班登記",
     "events": [
       "Entry",
       "Leave"
@@ -12,18 +12,11 @@
       "Jul 29 2024": "test day",
       "Jul 31 2024": "test day",
       "Aug 1 2024": "test day",
-      "Aug 2 2024": "test day",
-      "Aug 3 2024": "test day",
-      "Aug 4 2024": "test day",
-      "Aug 5 2024": "test day",
-      "Aug 6 2024": "test day",
-      
-      "Aug 7 2024": "day 1",
-      "Aug 8 2024": "day 2",
-      "Aug 9 2024": "day 3",
-      "Aug 10 2024": "day 4",
-      "Aug 11 2024": "day 5",
-      "Aug 12 2024": "day 6"
+      "Aug 2 2024": "day 1",
+      "Aug 3 2024": "day 2",
+      "Aug 4 2024": "day 3",
+      "Aug 5 2024": "day 4",
+      "Aug 6 2024": "day 5",
     },
     "ltc_range" : {
       "min": "1400000",
