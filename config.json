@@ -1,19 +1,19 @@
 {
   "App": {
-    "name": "2024 November 初中班登記",
+    "name": "2025 April 初中班登記",
     "events": [
       "Entry",
       "Leave"
     ],
     "daytags" : {
-      "Nov 17 2024": "test day",
+      "Jan 12 2025": "test day",
       
-      "Nov 18 2024": "day 1",
-      "Nov 19 2024": "day 2",
-      "Nov 20 2024": "day 3",
-      "Nov 21 2024": "day 4",
-      "Nov 22 2024": "day 5",
-      "Nov 23 2024": "day 6"
+      "Apr 8 2025": "day 1",
+      "Apr 9 2025": "day 2",
+      "Apr 10 2025": "day 3",
+      "Apr 11 2025": "day 4",
+      "Apr 12 2025": "day 5",
+      "Apr 13 2025": "day 6"
     },
     "ltc_range" : {
       "min": "1400000",
@@ -22,7 +22,7 @@
     "scanner_sound" : "beep.mp3"
   },
   "Google": {
-    "formURL": "https://script.google.com/macros/s/AKfycbx0C16S1OD6ts32X8pom9ExYE0i2RakQ2re1394wotc7NzBjLqe0oAundipcJcYh2xvyA/exec"
+    "formURL": "https://script.google.com/macros/s/AKfycbzNEk1R9cob3OUNS1gA7hCThqrSnXhaIONnm_3pwRzXE1CEbZjvnN6ATYYJ6MiFxUI7Vw/exec"
   }
 }
 
