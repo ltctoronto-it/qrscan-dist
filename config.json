@@ -1,28 +1,29 @@
 {
   "App": {
-    "name": "2025 October 初中班登記",
+    "name": "2026 January 初中班登記",
     "events": [
       "Entry",
       "Leave"
     ],
     "daytags" : {
-      "Sep 19 2025": "test day",
+      "Jan 24 2026": "test day",
+      "Jan 25 2026": "test day",
       
-      "Oct 4 2025": "day 1",
-      "Oct 5 2025": "day 2",
-      "Oct 6 2025": "day 3",
-      "Oct 7 2025": "day 4",
-      "Oct 8 2025": "day 5",
-      "Oct 9 2025": "day 6"
+      "Jan 26 2026": "day 1",
+      "Jan 27 2026": "day 2",
+      "Jan 28 2026": "day 3",
+      "Jan 29 2026": "day 4",
+      "Jan 30 2026": "day 5",
+      "Jan 31 2026": "day 6"
     },
     "ltc_range" : {
       "min": "1400000",
-      "max": "2509999"
+      "max": "2609999"
     },
     "scanner_sound" : "beep.mp3"
   },
   "Google": {
-    "formURL": "https://script.google.com/macros/s/AKfycbw6cElPUhHdeFAweI2EXSrK5mgkgtjAoRdBim-gnf_S86uAu47ouZvwkBCc4iZME2aYOw/exec"
+    "formURL": "https://script.google.com/macros/s/AKfycbzpeMH0byNpspaLe_JVp4Lridy4eTko-wlK3I5qoBVGmaieIv4mcigJMjon58uKmyBx/exec"
   }
 }
 
