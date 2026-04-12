@@ -6,15 +6,15 @@
       "Leave"
     ],
     "daytags" : {
-      "Jan 24 2026": "test day",
-      "Jan 25 2026": "test day",
+      "Apr 11 2026": "test day",
+      "Apr 17 2026": "test day",
       
-      "Jan 26 2026": "day 1",
-      "Jan 27 2026": "day 2",
-      "Jan 28 2026": "day 3",
-      "Jan 29 2026": "day 4",
-      "Jan 30 2026": "day 5",
-      "Jan 31 2026": "day 6"
+      "Apr 18 2026": "day 1",
+      "Apr 19 2026": "day 2",
+      "Apr 20 2026": "day 3",
+      "Apr 21 2026": "day 4",
+      "Apr 22 2026": "day 5",
+      "Apr 23 2026": "day 6"
     },
     "ltc_range" : {
       "min": "1400000",
@@ -23,7 +23,7 @@
     "scanner_sound" : "beep.mp3"
   },
   "Google": {
-    "formURL": "https://script.google.com/macros/s/AKfycbzpeMH0byNpspaLe_JVp4Lridy4eTko-wlK3I5qoBVGmaieIv4mcigJMjon58uKmyBx/exec"
+    "formURL": "https://script.google.com/macros/s/AKfycbwg301_JxTs0bEazFgDwX8Mm05WNT0iTfCoOocpVlACxLHRsHuNUK4S6pb7S2o2xxscYA/exec"
   }
 }
 
